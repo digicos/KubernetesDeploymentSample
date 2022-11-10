@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "KubernetesSample\WebAPI.csproj", "{2A971FCE-563F-4CCA-B4CB-EC537CA6896B}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactui", "ReactUI\reactui.esproj", "{CE75D904-4EAB-4AE2-B7EC-320ACED82648}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactui", "reactui\reactui.esproj", "{CE75D904-4EAB-4AE2-B7EC-320ACED82648}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deployment", "deployment", "{4A48B71B-4E54-4417-A686-79DFCE9FCBF3}"
 	ProjectSection(SolutionItems) = preProject
